@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33423.256
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeleterApp", "DeleterApp.csproj", "{21A92F4A-A55A-4EEF-9EFA-77EA2F0A1417}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21A92F4A-A55A-4EEF-9EFA-77EA2F0A1417}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21A92F4A-A55A-4EEF-9EFA-77EA2F0A1417}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21A92F4A-A55A-4EEF-9EFA-77EA2F0A1417}.Debug|x86.ActiveCfg = Debug|x86
+		{21A92F4A-A55A-4EEF-9EFA-77EA2F0A1417}.Debug|x86.Build.0 = Debug|x86
+		{21A92F4A-A55A-4EEF-9EFA-77EA2F0A1417}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21A92F4A-A55A-4EEF-9EFA-77EA2F0A1417}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21A92F4A-A55A-4EEF-9EFA-77EA2F0A1417}.Release|x86.ActiveCfg = Release|x86
+		{21A92F4A-A55A-4EEF-9EFA-77EA2F0A1417}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FAE5B2FA-66F8-440F-B430-90E2A4EBA40B}
+	EndGlobalSection
+EndGlobal
