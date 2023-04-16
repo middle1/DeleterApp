@@ -12,6 +12,6 @@
 <li>Полное удаление - в данном способе удаление, файл удаляется стандартно, но перед этим всё содержимое файлов обнуляется. Файл можно востановить после такого удаление, но файл будет полностью пустым(все тесты были проведены в программе Hetman Partition Recovery)</li>
 </ol>
 <h2>Установка</2>
-<h3><a href="">Версия для систем 64bit</h3></a>
-<h3><a href="">Версия для систем 32bit</h3></a>
+<h3><a href="https://github.com/middle1/DeleterApp/releases/download/Stable/DeleterAppX64.exe">Версия для систем 64bit</h3></a>
+<h3><a href="https://github.com/middle1/DeleterApp/releases/download/Stable/DeleterAppX86.exe">Версия для систем 32bit</h3></a>
 </h3>
